@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5TQS5zs/5KUl+UOoZsl82aWhhpTifXxiMGqD2fQsjdk=",
+  "Source": "SignalR_PostComment",
+  "BasePath": "_content/SignalR_PostComment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
